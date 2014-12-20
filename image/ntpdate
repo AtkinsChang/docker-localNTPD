@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ntpdate -uv time.stdtime.gov.tw
+hwclock -w
